@@ -43,4 +43,4 @@ may have gotten wrongly. Use it with `perl check.pl`.
 
 You can also use the `missing.pl` to get documents that are missing. 
 
-Both of these will not yet work with --todo, --tmp and --done and assume that you did not use any special paths.
+Both of these will not yet work with --todo, --tmp and --done
